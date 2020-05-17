@@ -14,6 +14,8 @@ developing.
 The centralized bug and feature repository for this project is the one provided by
 Github. 
 
+Follow the [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) branching model. 
+
 TODO: Issue template
 TODO: Developer code of conduct
 
